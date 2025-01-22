@@ -1,0 +1,10 @@
+body{
+    h1{
+        color:darkgoldenrod;
+        text-align:center;
+    }
+}
+p{
+    color:darkblue;
+    text-align: center;
+}
